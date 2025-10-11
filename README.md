@@ -392,7 +392,7 @@
     </a>
 
     <div class="back text-center">
-      <h1 class="topic">PARA MI MUJER<br>Yorchis</h1>
+      <h1 class="topic">PARA MI MUJER<br>Mi Reina</h1>
       <p class="content-1">Que Afortunado soy de tenerte en mi vida</p>
       <p class="content-2">Me haces muy feliz mi amor</p>  
       <div class="heart"></div>
